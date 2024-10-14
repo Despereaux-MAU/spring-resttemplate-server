@@ -1,7 +1,9 @@
 package com.despereaux.springresttemplateserver.dto;
 
+import com.despereaux.springresttemplateserver.entity.Item;
 import lombok.Getter;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @Getter
